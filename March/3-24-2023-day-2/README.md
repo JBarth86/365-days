@@ -1,6 +1,6 @@
-Day 2 - March 24, 2023
+# Day 2 - March 24, 2023
 
-Today I finished up a Codewars exercise from yesterday (see ../3-23-2023-day-1/) and then I spent the rest of my code time getting this all organized to put on github and writing the notes, as I'm doing right now, obviously.
+Today I finished up a Codewars exercise from yesterday (see [yesterday's README.md](../3-23-2023-day-1/README.md)) and then I spent the rest of my code time getting this all organized to put on github and writing the notes, as I'm doing right now, obviously.
 
 I also had several job interviews today, not development jobs, inventory/warehouse jobs. I started the week with no job, now I've got three jobs I'm supposed to start Monday lol. Much like The Highlander, there can be only one! The new job will keep the bills paid for now. Now I can focus on working towards my first job as a developer.
 
