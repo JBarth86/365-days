@@ -42,7 +42,7 @@ pip install --user git+https://github.com/codewars/python-test-framework.git#egg
 
 I used Python for this one just because that's what I've been using lately. For me the thought process went something like this:
 
-- step 1: get rid of the trash text i.e. white space, special characters, and apostrophys that weren't part of a word.
+- step 1: get rid of the trash text i.e. white space, special characters, and apostrophes that weren't part of a word.
 
 - step 2: reduce the list of words in the cleaned up text to a dictionary listing each unique word with its associated count.
 
@@ -52,4 +52,4 @@ I used Python for this one just because that's what I've been using lately. For 
 
 I got steps 1, 2, and 3b done pretty quickly but I wasn't happy with initial implementation ideas and decided to sleep on it. The next day I had several job interviews but after having stepped away from the problem for a bit, once I sat back down to finish it up step 3a came along to my satisfaction pretty quickly.
 
-Of course after I submitted my solution on Codewars I saw some other people had come up with a more clever (perhaps more pythonic) solution using the collections.Counter class that I didn't know about at the time. However, I'm still pretty satisfied with my solution, especially my use of regular expressions and reducer functions and I learned something new along the way.
+Of course after I submitted my solution on Codewars I saw some other people had come up with a more clever solution using the collections.Counter class that I didn't know about at the time. However, I'm still pretty satisfied with my solution, especially my use of regular expressions and reducer functions and I learned something new along the way.

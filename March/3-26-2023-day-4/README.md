@@ -4,7 +4,7 @@ It's Sunday. I opened the first Codewars challenge of the day probably about a m
 
 ---
 
-### [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+### [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/python)
 
 **5 kyu**
 
