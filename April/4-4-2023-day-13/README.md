@@ -4,6 +4,8 @@ I finished up the solution to the challenge I was working on yesterday. My code 
 
 Regardless, it's working code and I'm still at it almost two weeks in despite extreme fatigue. I'm not letting myself slide on my commitment.
 
+---
+
 [Codewars style ranking system
 ](https://www.codewars.com/kata/51fda2d95d6efda45e00004e/train/python)
 
