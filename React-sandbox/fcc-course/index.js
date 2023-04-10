@@ -1,11 +1,13 @@
 function Header() {
     return (
         <header>
-            <nav>
-                <img
-                    src="../../April/4-8-2023-day-17/hovalin.png"
-                    width="100"
-                />
+            <nav className="nav">
+                <img src="../../April/4-8-2023-day-17/hovalin.png" />
+                <ul className="nav-items">
+                    <li>Pricing</li>
+                    <li>About</li>
+                    <li>Contact</li>
+                </ul>
             </nav>
         </header>
     );
