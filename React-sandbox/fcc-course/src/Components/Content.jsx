@@ -1,13 +1,11 @@
-export default function Content() {
+export default function Content(props) {
     return (
         <main>
             <h1>I'm learning React because:</h1>
             <ol>
-                <li>It's a hireable skill</li>
-                <li>
-                    It seems like the logical conclusion for web development
-                </li>
-                <li>Because I find it interesting</li>
+                {props.reasons.map((reason, i) => (
+                    <li key={i}>{reason}</li>
+                ))}
             </ol>
         </main>
     );
