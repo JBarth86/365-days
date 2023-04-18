@@ -1,25 +1,27 @@
-html, body {
-    margin: 0;
-    padding: 0;
-}
-
 .nav {
+    background-color: #21222A;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    justify-content: space-between;
+    height: 90px;
+    padding: 30px 25px;
+    font-family: 'inter', sans-serif;
 }
 
-.nav img {
-    width: 100px;
-
+.logo-img {
+    height: 40px;
 }
 
-.nav-items {
-    list-style: none;
-    display: flex;
+.logo-text {
+    font-weight: 700;
+    font-size: 23px;
+    width: 50%;
+    color: #61DAFB;
 }
 
-.nav-items li {
-    padding: 10px;
+.page-name {
+    font-weight: 600;
+    width: 50%;
+    text-align: right;
+    color: #DEEBF8;
 }
-
