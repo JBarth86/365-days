@@ -1,3 +1,7 @@
+body {
+    background: #282D35;
+}
+
 .nav {
     background-color: #21222A;
     display: flex;
@@ -24,4 +28,13 @@
     width: 50%;
     text-align: right;
     color: #DEEBF8;
+}
+
+.wrapper {
+    color: white;
+    font-family: 'Inter', sans-serif;
+}
+
+footer {
+    align-self: bottom;
 }

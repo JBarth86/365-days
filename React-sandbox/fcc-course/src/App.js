@@ -5,17 +5,21 @@ import Footer from "./Components/Footer";
 import React from "react";
 
 let reasons = [
-    "It's a hireable skill",
-    "It seems like the logical conclusion for web development",
-    "Because I find it interesting",
+    "Was first released in 2019",
+    "Was originally created by Jordan Walke",
+    "Has well over 100k stars on GitHub",
+    "Is maintained by Facebook",
+    "Powers thousands of enterprise apps, including mobile apps",
 ];
 
 export default function App() {
     return (
         <React.Fragment>
             <Header />
-            <Content reasons={reasons} />
-            <Footer />
+            <div className="wrapper">
+                <Content reasons={reasons} />
+                <Footer />
+            </div>
         </React.Fragment>
     );
 }
