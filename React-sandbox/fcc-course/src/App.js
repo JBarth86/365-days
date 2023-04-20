@@ -5,7 +5,7 @@ import Footer from "./Components/Footer";
 import React from "react";
 
 let reasons = [
-    "Was first released in 2019",
+    "Was first released in 2013",
     "Was originally created by Jordan Walke",
     "Has well over 100k stars on GitHub",
     "Is maintained by Facebook",
